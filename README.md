@@ -21,7 +21,7 @@ siraliEkle özyinelemeli fonksiyonu ise yığında sıralama işlemi yapar.
 </p>
 
 <h3>1. Kullanılan Teknolojiler ve Dil:</h3> Visual Studio Console Application - C++
-<br><br>
+<br>
 
 <h3>2. Yığın Sıralama Calışma Mantığı</h3>
 <img src="images/calisma.PNG">
