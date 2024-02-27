@@ -1,4 +1,4 @@
-<h1>Veri Yapıları Ders Ödevi</h1>
+<h1>Veri Yapıları Dersi Kuyruk-Yığın-Özyinelemeli Fonksiyon Ödevi</h1>
 
 <p align="justify">Veri yapıları dersimizin bu ödevinde kuyruk ve yığın veri yapıları kullanılarak üzerlerinde ekleme, çıkarma, sıralama işlemleri gerçekleştirildi. Kuyruk ve yığın veri yapılarından kısaca bahsedecek olursak;<br>
 Kuyruk veri yapısı, ilk giren ilk çıkar son giren son çıkar mantığı ile çalışmaktadır. Bu veri yapısına fırında ekmek için sıra bekleyen insanları veya bir markette sırada bekleyen insanları vs. örnek verebiliriz. Bu veri yapısına iki kısımdan erişim vardır. Yeni gelen elemanların eklenecekleri konumu işaretleyen bir son işaretçisi ve sırada aktif olanı belirlemek üzere bir de baş işaretçisi bulunmaktadır. Kuyrukda eleman ekleme işlemi(enqueue) kuyruğun sonuna, eleman çıkarma işlemi(dequeue) ise kuyruğun başına yapılır. Yığın Veri Yapısı ise ilk giren son, son giren ilk çıkar mantığı ile çalışır. Buna ise bir kutuya konulan kitapları örnek verebiliriz. Bu veri yapısında eleman ekleme işlemi(push) yığının en üstüne gerçekleşirken, eleman çıkarma işlemi(pop) ise yine yığının en üstünden gerçekleşir. </p>
